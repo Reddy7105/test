@@ -11,3 +11,4 @@ void main()
    scanf("the value of c = %d", &c);
    getch();
 };
+end of code
