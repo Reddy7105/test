@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<stdio.h>
+void main()
+{
+ 
+   clrscr();
+   int a,b,c=0;
+   printf("enter value of a and b");
+   scanf("%d %d",&a,&b);
+   c=a+b;
+   scanf("the value of c = %d", &c);
+   getch();
+};
